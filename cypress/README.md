@@ -1,7 +1,7 @@
 # Proyecto: Información de Bandas Musicales - Front
 Proyecto pruebas automatizadas
 
-## Requisitos
+## Requisitos 
 
 Para poder correr este proyecto en tu máquina, se necesita tener lo siguiente instalado:
 
@@ -21,6 +21,5 @@ npm install
 ### Correr proyecto
 ```
 npx cypress open
-
 ```
 
